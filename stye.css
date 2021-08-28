@@ -1,0 +1,44 @@
+.heading {
+    font-size: 30px;
+    font-family: 'Palette Mosaic', cursive;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 20px rgb(245, 158, 37);
+    color: #ffa600;
+}
+
+.sussy {
+    float: none;
+    background-color: #fffb00;
+    border-radius: 10px;
+    padding: 10px;
+    color: #ff4000;
+    box-shadow: 7px 7px 5px rgb(255, 0, 0);
+}
+
+.baka{
+    margin-top: 2px;
+    font-size: 20px;
+    box-shadow: 7px 7px 5px rgb(235, 107, 52);
+}
+
+#dev{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(255, 0, 0);
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+.result_para{
+    font-family: 'Palette Mosaic', cursive;
+}
+
+canvas{
+    border: 1px solid black;
+    margin-top: 100px;
+}
